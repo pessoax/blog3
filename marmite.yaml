@@ -1,6 +1,8 @@
 name: Your Blog
 tagline: Things you talk about
 url: https://YOURUSER.github.io/blog
+extra:
+  colorscheme: dracula
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
